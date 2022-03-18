@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahimrahimovv
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data science
 - 📫 You can reach me by LinkedIn www.linkedin.com/in/rahim-rahimov
 
